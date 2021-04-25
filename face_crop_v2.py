@@ -13,7 +13,6 @@ directory = "C:/Users/91852/Desktop/project/Images/Angry/"
 ## directory where the images to be saved:
 f_directory = "C:/Users/91852/Desktop/project/NewImages/Angry/"
 
-################################################################################
             
 def facecrop(image):
     ## Crops the face of a person from any image!
